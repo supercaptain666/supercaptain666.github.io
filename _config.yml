@@ -36,17 +36,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 个人介绍
     url: /
-  - title: Publications
+  - title: 科研成果
     url: /publications/
-  - title: Awards
+  - title: 获奖情况
     url: /awards/
-  - title: Hobbies
+  - title: 团队活动
     url: /hobbies/
   # - title: Startups
     # url: /startups/
-  - title: Blogs
+  - title: 硬件条件
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

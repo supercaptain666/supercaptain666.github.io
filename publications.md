@@ -5,7 +5,7 @@ title: Publications
 ---
 
 
-## Paper
+## 科研成果
 
 1. **Junjie Chen**, Weilong Chen, Yifan Zuo, and Yuming Fang. "Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation." **In CVPR 2025**.
 2.  **Junjie chen**, Jiebin Yan, Yuming Fang, and Li Niu. [Meta-Point Learning and Refining for Category-Agnostic Pose Estimation]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Meta-Point_Learning_and_Refining_for_Category-Agnostic_Pose_Estimation_CVPR_2024_paper.pdf))
@@ -24,7 +24,7 @@ title: Publications
 
 ---
 
-## Research Project
+## 主持课题
 
 1. 国家自然科学基金-青年科学基金项目。
 2. 江西省自然科学基金-青年科学基金项目。

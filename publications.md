@@ -7,17 +7,6 @@ title: Publications
 
 ## Paper
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024Framework.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Meta-Point Learning and Refining for Category-Agnostic Pose Estimation]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Meta-Point_Learning_and_Refining_for_Category-Agnostic_Pose_Estimation_CVPR_2024_paper.pdf))
-
-**Junjie chen**, Jiebin Yan, Yuming Fang, and Li Niu
-
-[**Project**](https://github.com/chenbys/MetaPoint)   <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- First to learn class-agnostic potential keypoints for CAPE. 
-</div>
-</div>
 1. **Junjie Chen**, Weilong Chen, Yifan Zuo, and Yuming Fang. "Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation." **In CVPR 2025**.
 2.  **Junjie chen**, Jiebin Yan, Yuming Fang, and Li Niu. [Meta-Point Learning and Refining for Category-Agnostic Pose Estimation]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Meta-Point_Learning_and_Refining_for_Category-Agnostic_Pose_Estimation_CVPR_2024_paper.pdf))
 3. **Junjie Chen**, Li Niu, Siyuan Zhou, Jianlou Si, Chen Qian, and Liqing Zhang. "Weak-shot Semantic Segmentation via Dual Similarity Transfer." **In NeurIPS 2022**.

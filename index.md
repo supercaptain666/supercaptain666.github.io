@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+# 个人信息
 
 <img src="images/index.jpg" class="floatpic">
 
@@ -18,7 +18,7 @@ layout: page
 2018-2023：上海交通大学，工学博士。
 
 ---
-## Research Interests
+## 教育背景
 - 计算机视觉
 - 深度学习
 - 迁移学习
@@ -29,10 +29,10 @@ layout: page
 
 ---
 
-## News and Updates
+## 前沿消息
 
 - **Feb 2025**：&nbsp;🎉🎉 one papers are accepted by CVPR 2025.
-- **Feb 202**: &nbsp;🎉🎉 one papers are accepted by CVPR 2024.
+- **Feb 2024**: &nbsp;🎉🎉 one papers are accepted by CVPR 2024.
 
 
 <br>

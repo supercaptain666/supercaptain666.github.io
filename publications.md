@@ -7,7 +7,7 @@ title: Publications
 
 ## Paper
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='CVPR2024Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Meta-Point Learning and Refining for Category-Agnostic Pose Estimation]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Meta-Point_Learning_and_Refining_for_Category-Agnostic_Pose_Estimation_CVPR_2024_paper.pdf))

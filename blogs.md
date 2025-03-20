@@ -9,13 +9,13 @@ title: Blogs
 ### 服务器
 
 <table border="2">
-        <thead>
+        <thead style="background-color: rgb(81, 130, 187); color: #fff; border: 1px solid rgb(81, 130, 187); padding: 5px 10px; font-family: Verdana; font-size: 12px; font-weight: bold;">
             <tr>
                 <th>设备</th>
                 <th>数量</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody style="color: #000; border: 1px solid rgb(81, 130, 187); padding: 5px 10px; font-family: Verdana; font-size: 12px; font-weight: bold;">
             <tr>
                 <td>A5000八卡机</td>
                 <td>1</td>

@@ -8,12 +8,32 @@ title: Blogs
 
 ### 服务器
 
-|设备|数量|
-|:--------|:--------|
-|A5000八卡机|1|
-|双卡4090|2|
-|16G 4060ti|3|
-|1台1080ti|1|
+<table>
+        <thead>
+            <tr>
+                <th>设备</th>
+                <th>数量</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>A5000八卡机</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>双卡4090</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>16G 4060ti</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>1台1080ti</td>
+                <td>1</td>
+            </tr>
+        </tbody>
+    </table>
 
 
 ### 无人机

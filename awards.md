@@ -5,12 +5,12 @@ title: Awards
 ---
 
 
-## Scholarships
+## 荣誉
 
 待补充<br>
 
 ---
-## Competitions
+## 竞赛
 
 待补充
 <br>

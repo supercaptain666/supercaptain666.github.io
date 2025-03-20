@@ -4,48 +4,43 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
 
-## Working Paper
+## Paper
 
-- Semantic Communication for the Internet of Space: Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to **IEEE Communications Standards Magazine**.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
----
+[Meta-Point Learning and Refining for Category-Agnostic Pose Estimation]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Meta-Point_Learning_and_Refining_for_Category-Agnostic_Pose_Estimation_CVPR_2024_paper.pdf))
 
-## Conference Paper
+**Junjie chen**, Jiebin Yan, Yuming Fang, and Li Niu
 
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>
-  [arXiv](https://arxiv.org/abs/2502.08426). Catania, Italy. February, 2025.
-
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
+[**Project**](https://github.com/chenbys/MetaPoint)   <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- First to learn class-agnostic potential keypoints for CAPE. 
+</div>
+</div>
+- **Junjie Chen**, Weilong Chen, Yifan Zuo, and Yuming Fang. "Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation." `In CVPR 2025`.
+- **Junjie Chen**, Li Niu, Siyuan Zhou, Jianlou Si, Chen Qian, and Liqing Zhang. "Weak-shot Semantic Segmentation via Dual Similarity Transfer." `In NeurIPS 2022`.
+- **Junjie Chen**, Li Niu, Liu Liu, and Liqing Zhang. "Weak-shot fine-grained classification via similarity transfer." `In NeurIPS 2021`.
+- **Junjie Chen**, Li Niu, and Liqing Zhang. "Depth Privileged Scene Recognition via Dual Attention Hallucination." `IEEE Trans. Image Process. 30 (2021): 9164-9178`.
+- **Junjie Chen**, Li Niu, Jianfu Zhang, Jianlou Si, Chen Qian, and Liqing Zhang. "Amodal Instance Segmentation via Prior-guided Expansion." `In AAAI 2023`.
+- Yi Tu, Li Niu, **Junjie Chen**, Dawei Cheng, and Liqing Zhang. "Learning from web data with self-organizing memory module." `In CVPR 2020`.
+- Yan Liu, Zhijie Zhang, Li Niu, **Junjie Chen**, and Liqing Zhang. "Mixed supervised object detection by transferring mask prior and semantic similarity." `In NeurIPS 2021`.
+- Jieteng Yao, **Junjie Chen**, Li Niu, Bin Sheng. Scene-aware Human Pose Generation using Transformer. `In ACM MM 2023`.
+- Zhijie Zhang, Yan Liu, **Junjie Chen**, Li Niu, and Liqing Zhang. "Depth Privileged Object Detection in Indoor Scenes via Deformation Hallucination." `In AAAI 2021`.
+- Jiangtong Li, Wentao Wang, **Junjie Chen**, Li Niu, Jianlou Si, Chen Qian, and Liqing Zhang. "Video Semantic Segmentation via Sparse Temporal Transformer." `In ACM MM 2021`.
 
 
 <br>
 
-
 ---
 
-## Early Project
+## Research Project
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
+1. 国家自然科学基金-青年科学基金项目。
+2. 江西省自然科学基金-青年科学基金项目。
+3. 江西省职业早期人才培养项目。
+4. 校级一般教育教学改革课题。
   <br>
-
----
-
-## Degree Thesis
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
 
   <br>
 
